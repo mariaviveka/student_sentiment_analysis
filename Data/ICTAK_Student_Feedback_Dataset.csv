@@ -1,0 +1,151 @@
+Student_ID,Student_Name,Course_Name,Feedback_Rating,Feedback_Comment,Suggestions
+STD001,Lakshmi Sharma,Data Science using Python,4,"Liked the course, especially the final project.",Extend the course duration.
+STD002,Diya Sharma,Machine Learning,5,Excellent course with practical examples.,More live coding sessions.
+STD003,Meera Nair,Cloud Computing,3,The pace was perfect for beginners.,Better course materials.
+STD004,Kiran Reddy,Cloud Computing,5,Well explained and easy to follow.,Better course materials.
+STD005,Neha Menon,Machine Learning,4,"Good overall, but needs improvement in project part.",Add weekend doubt-clearing sessions.
+STD006,Kiran Varma,UI/UX Design,3,"Liked the course, especially the final project.",Extend the course duration.
+STD007,Isha Kumar,UI/UX Design,3,The pace was perfect for beginners.,More live coding sessions.
+STD008,Kiran Menon,UI/UX Design,4,"Liked the course, especially the final project.",Better course materials.
+STD009,Diya Das,Software Testing,3,Excellent course with practical examples.,More practical examples.
+STD010,Meera Sharma,Data Science using Python,4,The instructor was very supportive.,Add weekend doubt-clearing sessions.
+STD011,Tejas Menon,Data Analytics,3,"Liked the course, especially the final project.",Add weekend doubt-clearing sessions.
+STD012,Tejas Patel,UI/UX Design,3,Could include more quizzes for revision.,Extend the course duration.
+STD013,Neha Patel,Artificial Intelligence,3,The instructor was very supportive.,"No suggestions, it was great!"
+STD014,Meera Kumar,Software Testing,4,Needs more assignments to practice.,Include mock interviews.
+STD015,Isha Das,Full Stack Web Development,4,The instructor was very supportive.,More practical examples.
+STD016,Isha Das,Software Testing,3,The pace was perfect for beginners.,Better course materials.
+STD017,Sneha Kumar,Data Analytics,5,The instructor was very supportive.,More live coding sessions.
+STD018,Lakshmi Iyer,Machine Learning,4,Very interactive sessions.,More live coding sessions.
+STD019,Lakshmi Menon,Artificial Intelligence,4,Awesome learning experience.,More practical examples.
+STD020,Harini Das,Artificial Intelligence,5,Excellent course with practical examples.,Include more datasets for practice.
+STD021,Ananya Sharma,Cloud Computing,3,"Liked the course, especially the final project.",Include mock interviews.
+STD022,Neha Patel,Artificial Intelligence,5,Very interactive sessions.,Extend the course duration.
+STD023,Irfan Varma,UI/UX Design,5,"Good content, but could use more real-world case studies.",Include more datasets for practice.
+STD024,Kiran Patel,Machine Learning,4,Excellent course with practical examples.,Extend the course duration.
+STD025,Kiran Das,Cloud Computing,3,Excellent course with practical examples.,"No suggestions, it was great!"
+STD026,Nisha Iyer,Data Analytics,5,"Good content, but could use more real-world case studies.",More practical examples.
+STD027,Aditya Kumar,UI/UX Design,4,The pace was perfect for beginners.,Include more datasets for practice.
+STD028,Arjun Iyer,Full Stack Web Development,3,Very interactive sessions.,Extend the course duration.
+STD029,Sneha Iyer,Full Stack Web Development,4,Excellent course with practical examples.,Extend the course duration.
+STD030,Diya Kumar,Software Testing,3,"Good overall, but needs improvement in project part.",Include mock interviews.
+STD031,Aditya Kumar,Artificial Intelligence,3,Needs more assignments to practice.,Provide additional reference materials.
+STD032,Meera Kumar,Cyber Security,3,Engaging sessions with hands-on learning.,Provide additional reference materials.
+STD033,Gaurav Das,Software Testing,5,"Good overall, but needs improvement in project part.",Provide additional reference materials.
+STD034,Irfan Menon,Software Testing,5,Engaging sessions with hands-on learning.,More live coding sessions.
+STD035,Rahul Varma,Artificial Intelligence,5,Excellent course with practical examples.,Include mock interviews.
+STD036,Gaurav Das,Machine Learning,4,Well explained and easy to follow.,Extend the course duration.
+STD037,Irfan Das,Cyber Security,4,Very interactive sessions.,More practical examples.
+STD038,Ananya Pillai,Data Analytics,4,"Good overall, but needs improvement in project part.",Provide additional reference materials.
+STD039,Meera Sharma,Cyber Security,4,Too fast-paced in some modules.,More live coding sessions.
+STD040,Aarav Varma,Cloud Computing,3,Engaging sessions with hands-on learning.,Include more datasets for practice.
+STD041,Priya Iyer,Cloud Computing,5,The pace was perfect for beginners.,More practical examples.
+STD042,Diya Iyer,Machine Learning,5,Could include more quizzes for revision.,"No suggestions, it was great!"
+STD043,Lakshmi Menon,Machine Learning,4,Excellent course with practical examples.,Include mock interviews.
+STD044,Lakshmi Patel,Cyber Security,4,The pace was perfect for beginners.,Provide additional reference materials.
+STD045,Diya Menon,Software Testing,3,"Good content, but could use more real-world case studies.",Add weekend doubt-clearing sessions.
+STD046,Kiran Pillai,UI/UX Design,5,Well explained and easy to follow.,Add more projects.
+STD047,Rahul Reddy,Power BI,4,"Good overall, but needs improvement in project part.",Add more projects.
+STD048,Neha Kumar,Machine Learning,3,The instructor was very supportive.,Extend the course duration.
+STD049,Kiran Patel,Machine Learning,4,Needs more assignments to practice.,More practical examples.
+STD050,Arjun Menon,Software Testing,4,Needs more assignments to practice.,Provide additional reference materials.
+STD051,Gaurav Pillai,Cyber Security,3,Too fast-paced in some modules.,Better course materials.
+STD052,Irfan Das,Cyber Security,3,"Good overall, but needs improvement in project part.",Add weekend doubt-clearing sessions.
+STD053,Neha Varma,Machine Learning,4,"Liked the course, especially the final project.","No suggestions, it was great!"
+STD054,Rahul Menon,Cloud Computing,3,Well structured and informative.,Better course materials.
+STD055,Irfan Reddy,Software Testing,3,Could include more quizzes for revision.,Include mock interviews.
+STD056,Diya Kumar,Cyber Security,3,"Good overall, but needs improvement in project part.",Include more datasets for practice.
+STD057,Ananya Nair,Cyber Security,3,Could include more quizzes for revision.,More practical examples.
+STD058,Meera Sharma,Full Stack Web Development,5,The pace was perfect for beginners.,Add more projects.
+STD059,Gaurav Sharma,Artificial Intelligence,3,Too fast-paced in some modules.,Provide additional reference materials.
+STD060,Harini Sharma,Data Analytics,4,Could include more quizzes for revision.,"No suggestions, it was great!"
+STD061,Isha Das,Data Analytics,5,Excellent course with practical examples.,Provide additional reference materials.
+STD062,Priya Menon,Power BI,4,Very interactive sessions.,"No suggestions, it was great!"
+STD063,Ananya Menon,Power BI,5,Very interactive sessions.,"No suggestions, it was great!"
+STD064,Rohan Patel,Data Analytics,3,"Good content, but could use more real-world case studies.",Include more datasets for practice.
+STD065,Harini Patel,Full Stack Web Development,4,Awesome learning experience.,Add weekend doubt-clearing sessions.
+STD066,Sneha Menon,Data Science using Python,5,Awesome learning experience.,"No suggestions, it was great!"
+STD067,Arjun Patel,UI/UX Design,3,Engaging sessions with hands-on learning.,Add more projects.
+STD068,Harini Varma,Full Stack Web Development,4,Well structured and informative.,More practical examples.
+STD069,Lakshmi Kumar,Artificial Intelligence,3,Helpful for understanding basics clearly.,Add weekend doubt-clearing sessions.
+STD070,Irfan Pillai,Cyber Security,3,Awesome learning experience.,Better course materials.
+STD071,Sneha Das,Software Testing,4,Awesome learning experience.,Include more datasets for practice.
+STD072,Rohan Sharma,Full Stack Web Development,5,Helpful for understanding basics clearly.,Extend the course duration.
+STD073,Kiran Das,Artificial Intelligence,3,Well structured and informative.,"No suggestions, it was great!"
+STD074,Priya Menon,UI/UX Design,5,"Liked the course, especially the final project.",Include more datasets for practice.
+STD075,Arjun Menon,Data Science using Python,3,Well explained and easy to follow.,More practical examples.
+STD076,Kiran Reddy,Software Testing,5,The pace was perfect for beginners.,More live coding sessions.
+STD077,Aditya Kumar,UI/UX Design,4,Excellent course with practical examples.,More practical examples.
+STD078,Rahul Varma,Machine Learning,5,The instructor was very supportive.,Better course materials.
+STD079,Dev Nair,Cloud Computing,5,The pace was perfect for beginners.,Extend the course duration.
+STD080,Sneha Patel,Software Testing,4,Awesome learning experience.,Include more datasets for practice.
+STD081,Neha Das,Machine Learning,3,Very interactive sessions.,Better course materials.
+STD082,Kiran Menon,Machine Learning,4,"Good overall, but needs improvement in project part.",More practical examples.
+STD083,Aarav Iyer,Data Science using Python,3,Too fast-paced in some modules.,Include mock interviews.
+STD084,Meera Reddy,UI/UX Design,4,Needs more assignments to practice.,Add more projects.
+STD085,Dev Menon,Artificial Intelligence,3,"Liked the course, especially the final project.",Provide additional reference materials.
+STD086,Rahul Das,Cloud Computing,5,Awesome learning experience.,Include mock interviews.
+STD087,Aarav Iyer,Cloud Computing,5,Well structured and informative.,More practical examples.
+STD088,Irfan Iyer,Software Testing,4,"Liked the course, especially the final project.",Include more datasets for practice.
+STD089,Ananya Kumar,Cyber Security,5,Too fast-paced in some modules.,More practical examples.
+STD090,Sneha Kumar,Cyber Security,4,"Good overall, but needs improvement in project part.",Add more projects.
+STD091,Arjun Menon,Full Stack Web Development,4,"Good content, but could use more real-world case studies.",Better course materials.
+STD092,Isha Sharma,Data Analytics,4,Well explained and easy to follow.,Extend the course duration.
+STD093,Lakshmi Varma,Data Science using Python,5,Well explained and easy to follow.,Include mock interviews.
+STD094,Meera Patel,Machine Learning,4,The pace was perfect for beginners.,Add weekend doubt-clearing sessions.
+STD095,Neha Varma,Cyber Security,5,Could include more quizzes for revision.,Add more projects.
+STD096,Aarav Iyer,UI/UX Design,5,The pace was perfect for beginners.,Include more datasets for practice.
+STD097,Ananya Menon,Full Stack Web Development,5,Well structured and informative.,Include mock interviews.
+STD098,Ananya Das,Machine Learning,3,Well structured and informative.,"No suggestions, it was great!"
+STD099,Diya Varma,UI/UX Design,4,Very interactive sessions.,Better course materials.
+STD100,Nisha Nair,Data Analytics,4,Helpful for understanding basics clearly.,Include mock interviews.
+STD101,Gaurav Patel,Cloud Computing,5,"Liked the course, especially the final project.",Extend the course duration.
+STD102,Gaurav Nair,Software Testing,5,"Good content, but could use more real-world case studies.",Provide additional reference materials.
+STD103,Meera Reddy,Full Stack Web Development,3,Needs more assignments to practice.,"No suggestions, it was great!"
+STD104,Neha Patel,Machine Learning,3,Awesome learning experience.,Add weekend doubt-clearing sessions.
+STD105,Dev Nair,Full Stack Web Development,3,Very interactive sessions.,Add more projects.
+STD106,Rahul Sharma,Machine Learning,3,Excellent course with practical examples.,Provide additional reference materials.
+STD107,Aarav Pillai,Cloud Computing,3,"Liked the course, especially the final project.",More practical examples.
+STD108,Neha Varma,Artificial Intelligence,3,Well structured and informative.,Add more projects.
+STD109,Aditya Das,UI/UX Design,4,"Good content, but could use more real-world case studies.",Extend the course duration.
+STD110,Isha Das,Data Science using Python,3,Helpful for understanding basics clearly.,Add weekend doubt-clearing sessions.
+STD111,Isha Kumar,Software Testing,4,"Liked the course, especially the final project.",Add more projects.
+STD112,Sneha Patel,Power BI,4,Could include more quizzes for revision.,Add more projects.
+STD113,Ananya Varma,Data Analytics,3,"Good overall, but needs improvement in project part.",Include mock interviews.
+STD114,Irfan Reddy,Power BI,3,Could include more quizzes for revision.,Better course materials.
+STD115,Aditya Kumar,Artificial Intelligence,4,Could include more quizzes for revision.,"No suggestions, it was great!"
+STD116,Diya Das,Artificial Intelligence,5,Could include more quizzes for revision.,"No suggestions, it was great!"
+STD117,Ananya Patel,Artificial Intelligence,3,Well structured and informative.,Include more datasets for practice.
+STD118,Aarav Kumar,Machine Learning,3,Helpful for understanding basics clearly.,"No suggestions, it was great!"
+STD119,Irfan Patel,Data Science using Python,5,Awesome learning experience.,More practical examples.
+STD120,Dev Kumar,Full Stack Web Development,3,Well explained and easy to follow.,Better course materials.
+STD121,Aditya Pillai,Cloud Computing,5,Too fast-paced in some modules.,"No suggestions, it was great!"
+STD122,Nisha Kumar,Cyber Security,4,Excellent course with practical examples.,"No suggestions, it was great!"
+STD123,Tejas Das,Cyber Security,3,Engaging sessions with hands-on learning.,Provide additional reference materials.
+STD124,Kiran Kumar,Data Analytics,5,Too fast-paced in some modules.,More practical examples.
+STD125,Aditya Pillai,Power BI,5,Needs more assignments to practice.,Better course materials.
+STD126,Sneha Iyer,Data Analytics,4,Could include more quizzes for revision.,Include mock interviews.
+STD127,Aarav Menon,Cloud Computing,5,Needs more assignments to practice.,Include mock interviews.
+STD128,Aarav Patel,Cloud Computing,5,"Liked the course, especially the final project.",Extend the course duration.
+STD129,Lakshmi Menon,Power BI,5,Needs more assignments to practice.,Extend the course duration.
+STD130,Irfan Kumar,Software Testing,3,Helpful for understanding basics clearly.,"No suggestions, it was great!"
+STD131,Tejas Menon,Software Testing,3,Engaging sessions with hands-on learning.,More practical examples.
+STD132,Neha Varma,Software Testing,4,The instructor was very supportive.,Better course materials.
+STD133,Irfan Menon,Software Testing,5,The instructor was very supportive.,Add weekend doubt-clearing sessions.
+STD134,Ananya Nair,Data Science using Python,5,Engaging sessions with hands-on learning.,Include mock interviews.
+STD135,Priya Pillai,Cyber Security,3,Excellent course with practical examples.,More practical examples.
+STD136,Gaurav Kumar,Data Science using Python,3,"Liked the course, especially the final project.",Add more projects.
+STD137,Sneha Iyer,Cyber Security,5,The instructor was very supportive.,Better course materials.
+STD138,Nisha Kumar,Machine Learning,3,Well structured and informative.,Better course materials.
+STD139,Harini Pillai,Full Stack Web Development,3,Well explained and easy to follow.,Add more projects.
+STD140,Rohan Menon,Cloud Computing,3,Needs more assignments to practice.,Extend the course duration.
+STD141,Nisha Sharma,Power BI,5,"Liked the course, especially the final project.",Provide additional reference materials.
+STD142,Harini Patel,Cloud Computing,3,Very interactive sessions.,Include mock interviews.
+STD143,Aarav Iyer,Power BI,4,Needs more assignments to practice.,Include mock interviews.
+STD144,Meera Sharma,Cyber Security,3,Helpful for understanding basics clearly.,Include mock interviews.
+STD145,Ananya Sharma,Full Stack Web Development,5,Very interactive sessions.,Better course materials.
+STD146,Arjun Pillai,Data Science using Python,5,Needs more assignments to practice.,Extend the course duration.
+STD147,Sneha Kumar,Data Science using Python,4,Engaging sessions with hands-on learning.,Extend the course duration.
+STD148,Isha Sharma,Data Analytics,3,The instructor was very supportive.,Provide additional reference materials.
+STD149,Aarav Kumar,Data Science using Python,5,Helpful for understanding basics clearly.,Extend the course duration.
+STD150,Tejas Varma,Machine Learning,3,Well structured and informative.,More live coding sessions.
