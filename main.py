@@ -10,13 +10,11 @@ import json
 st.set_page_config(layout="wide", page_title="ICTAK Student Feedback Dashboard")
 
 # ----------------- DATA LOAD -----------------
-
 @st.cache_data
 def load_data():
-    return pd.read_csv(r"C:\Users\Maria Viveka\Desktop\ICT\Projects\PycharmProjects\Student_sentiment analysis\Data\ICTAK_Student_Feedback_Dataset.csv")
+    return pd.read_csv("Data/ICTAK_Student_Feedback_Dataset.csv")
 
 df = load_data()
-
 
 # Combine feedback & suggestions
 df["text_full"] = (df["Feedback_Comment"].fillna("") + " " + df["Suggestions"].fillna("")).str.strip()
@@ -26,6 +24,7 @@ st.sidebar.title("🔍 Analysis Settings")
 analyzer = SentimentIntensityAnalyzer()
 
 df["sentiment_score"] = df["text_full"].apply(lambda x: analyzer.polarity_scores(str(x))["compound"])
+
 
 def label_sentiment(score):
     if score >= 0.3:
